@@ -1,5 +1,3 @@
-# [Hackathon_Telehack](https://telehack.ru/services/keys-2-prodvinutyi/)  
-
 ## Команда
 
 <u>CodeTheCats</u>
