@@ -4,7 +4,7 @@
 
 ## Участники команды: 
 
-1) <a href="https://github.com/ZeroFrantom">Колыхалов Дмитрий</a> (<i>TeamLead</i>) - FullStack<br>
+1) <a href="https://github.com/ZeroFantom">Колыхалов Дмитрий</a> (<i>TeamLead</i>) - FullStack<br>
 2) <a href="https://github.com/">Астафьев Кирилл</a> - Frontend<br>
 3) <a href="https://github.com/">Британский Сергей</a> - Manager<br>
 4) <a href="https://github.com/">Добряков Артём</a> - Designer<br>
