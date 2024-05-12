@@ -8,7 +8,7 @@
 2) <a href="https://github.com/">Астафьев Кирилл</a> - Frontend<br>
 3) <a href="https://github.com/">Британский Сергей</a> - Manager<br>
 4) <a href="https://github.com/">Добряков Артём</a> - Designer<br>
-5) <a href="https://github.com/">Соколов Владимир</a> - Backend, DevOps<br>
+5) <a href="https://github.com/SokoloVladimir">Соколов Владимир</a> - Backend, DevOps<br>
 
 ## Стек используемых технологий:
 
